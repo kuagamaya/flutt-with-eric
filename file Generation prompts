@@ -1,0 +1,22 @@
+If you need to generate specific files related to Flutter development that you can download. Here are some examples of how you can use this feature:
+
+1. **Generating a Specific Flutter File**:
+   - "Can you create a Dart file for a custom button widget and prepare it for download?"
+   - "I need a JSON file for mock data in my Flutter app. Can you generate it?"
+
+2. **Exporting Modified Code**:
+   - "Here's my Flutter ListView code. Can you modify it to add pull-to-refresh functionality and prepare the updated code for download?"
+   - "Can you refactor this Flutter service class for better error handling and provide the updated file for download?"
+
+3. **Creating Test Files**:
+   - "Generate a unit test file for this Flutter widget and make it available for download."
+   - "Can you create an integration test script for a Flutter app flow and prepare it for download?"
+
+4. **Documentation and Configuration Files**:
+   - "Create a README file for my Flutter project with setup instructions and prepare it for download."
+   - "Generate a pubspec.yaml file with the necessary dependencies for my project and make it available for download."
+
+5. **Exporting Complete Flutter Modules**:
+   - "Can you create a complete Flutter module for user authentication and make it available for download?"
+
+Once you specify the type of file and its contents or the modifications needed, the code will be Generated and provide you with a link to download the file.
