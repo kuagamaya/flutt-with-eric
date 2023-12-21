@@ -1,4 +1,4 @@
-# flutt-with-eric
+# flutt-with-eric GPT4 Plugin
 Flutter App Builder and Modification Plugin
 
 A specialized GPT designed to assist with Flutter app development. Capabilities are tailored to enhance productivity and improve the quality of Flutter apps. Here's a summary of what I can do and how I operate:
