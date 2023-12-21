@@ -1,0 +1,34 @@
+
+1. **Flutter Code Generation**:
+   - "Can you create Flutter code for a login screen with email and password fields?"
+   - "I need a Flutter widget for a customizable graph. Can you help?"
+
+2. **Modifying Existing Flutter Code**:
+   - "Here's my Flutter code for a shopping cart. Can you add a feature to apply discount codes?"
+   - "Can you refactor this Flutter function to make it more efficient?"
+
+3. **UI/UX Design Conversion**:
+   - "I have a design mockup for a news app screen. Can you convert it into Flutter widgets?"
+   - "Can you suggest improvements for the UI/UX of this Flutter screen I've designed?"
+
+4. **Testing and Debugging Flutter Apps**:
+   - "Can you generate unit tests for this Flutter widget?"
+   - "I'm encountering this error in my Flutter app. Can you help diagnose and fix it?"
+
+5. **Flutter Performance Optimization**:
+   - "Please analyze the performance of this Flutter code and suggest optimizations."
+   - "How can I improve the state management in my Flutter app for better performance?"
+
+6. **Documentation and Learning Support**:
+   - "Can you provide documentation for this piece of Flutter code?"
+   - "I'm learning Flutter. Can you give me examples of implementing animations?"
+
+7. **Version Control Integration**:
+   - "How do I manage branches for my Flutter project in Git?"
+   - "Can you assist with resolving merge conflicts in my Flutter codebase?"
+
+8. **General Flutter Development Queries**:
+   - "What are the best practices for folder structure in a large Flutter project?"
+   - "Can you explain how to implement internationalization in a Flutter app?"
+
+These prompts are just examples.
